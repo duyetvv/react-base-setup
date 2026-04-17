@@ -1,0 +1,134 @@
+[
+  {
+    "key": "flat-design",
+    "name": "Flat Design",
+    "description": "Uses simple two-dimensional visuals, clean lines, and minimal details to improve usability and clarity.",
+    "keyFeatures": [
+      "2D visuals",
+      "Simple geometry",
+      "Minimal decoration",
+      "High usability"
+    ]
+  },
+  {
+    "key": "minimalist-design",
+    "name": "Minimalist Design",
+    "description": "Focuses on simplicity and content by removing unnecessary elements and emphasizing clarity.",
+    "keyFeatures": [
+      "Less is more",
+      "Focus on content",
+      "Use of whitespace",
+      "Limited color palette"
+    ]
+  },
+  {
+    "key": "retro-design",
+    "name": "Retro Design",
+    "description": "Inspired by past decades with nostalgic visuals, textures, and typography.",
+    "keyFeatures": [
+      "Vintage color palettes",
+      "Decorative typography",
+      "Textured elements",
+      "Nostalgic graphics"
+    ]
+  },
+  {
+    "key": "progressive-web-design",
+    "name": "Progressive Web Design (PWA)",
+    "description": "Websites that behave like mobile applications, offering fast and app-like experiences.",
+    "keyFeatures": [
+      "App-like interface",
+      "Mobile-first experience",
+      "Offline capability",
+      "Fast performance"
+    ]
+  },
+  {
+    "key": "y2k-design",
+    "name": "Y2K Design",
+    "description": "A nostalgic style inspired by early 2000s digital aesthetics.",
+    "keyFeatures": [
+      "Bold colors",
+      "Holographic gradients",
+      "Pixelated elements",
+      "Playful typography"
+    ]
+  },
+  {
+    "key": "neo-brutalism",
+    "name": "Neo-Brutalism",
+    "description": "A bold, raw design style with high contrast, simple layouts, and unpolished visuals.",
+    "keyFeatures": [
+      "High contrast colors",
+      "Raw HTML look",
+      "Asymmetrical layouts",
+      "Strong typography"
+    ]
+  },
+  {
+    "key": "claymorphism",
+    "name": "Claymorphism",
+    "description": "Soft, 3D-like UI elements with rounded shapes and pastel colors.",
+    "keyFeatures": [
+      "Soft shadows",
+      "Rounded corners",
+      "3D effect",
+      "Pastel colors"
+    ]
+  },
+  {
+    "key": "behavioral-design",
+    "name": "Behavioral Design",
+    "description": "Design focused on influencing user behavior through rewards, feedback, and psychology.",
+    "keyFeatures": [
+      "Gamification",
+      "User incentives",
+      "Behavior tracking",
+      "Psychological triggers"
+    ]
+  },
+  {
+    "key": "memphis-design",
+    "name": "Memphis Design",
+    "description": "A playful, colorful style inspired by 1980s design with bold patterns and shapes.",
+    "keyFeatures": [
+      "Bright colors",
+      "Abstract shapes",
+      "Playful layouts",
+      "Creative freedom"
+    ]
+  },
+  {
+    "key": "moving-typography",
+    "name": "Moving Typography",
+    "description": "Combines text with animation to create dynamic and engaging experiences.",
+    "keyFeatures": [
+      "Animated text",
+      "Dynamic transitions",
+      "Storytelling elements",
+      "Visual engagement"
+    ]
+  },
+  {
+    "key": "interactive-design",
+    "name": "Interactive Design",
+    "description": "Focuses on user interaction through micro-interactions and engaging experiences.",
+    "keyFeatures": [
+      "Micro-interactions",
+      "User engagement",
+      "Interactive journeys",
+      "Feedback loops"
+    ]
+  },
+  {
+    "key": "parallax-scrolling",
+    "name": "Parallax Scrolling",
+    "description": "Uses layered scrolling effects to create depth and storytelling experiences.",
+    "keyFeatures": [
+      "Scrolling animations",
+      "Layered visuals",
+      "Depth illusion",
+      "Storytelling UX"
+    ]
+  }
+]

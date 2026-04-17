@@ -1,0 +1,52 @@
+.top-menu {
+  // Layout
+  display: flex;
+
+  // Box Model
+  width: 100%;
+  padding: 1rem 0;
+
+  // Visual
+  background-color: #1f2937;
+
+  &__container {
+    // Box Model
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  &__list {
+    // Layout
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+
+    // Box Model
+    margin: 0;
+    padding: 0;
+
+    // Visual
+    list-style: none;
+  }
+
+  &__link {
+    // Typography
+    font-size: 1rem;
+    font-weight: 500;
+    color: #ffffff;
+    text-decoration: none;
+
+    // Transform / Animation
+    transition: color 0.2s ease;
+
+    &:hover {
+      // Typography
+      color: #93c5fd; // A slightly lighter blue for better contrast on the dark background
+    }
+
+    &.active {
+      // Typography
+      color: #93c5fd; // A slightly lighter blue for better contrast on the dark background
+    }
+  }
+}

@@ -1,0 +1,18 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ModalView Component > should match snapshot when closed 1`] = `<div />`;
+
+exports[`ModalView Component > should match snapshot when opened 1`] = `
+<DocumentFragment>
+  <div
+    class="modal__overlay"
+    role="presentation"
+  >
+    <div
+      aria-modal="true"
+      class="modal__container undefined"
+      role="dialog"
+    />
+  </div>
+</DocumentFragment>
+`;

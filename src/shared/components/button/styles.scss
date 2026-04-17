@@ -1,0 +1,28 @@
+.button {
+  border: 0;
+  outline: 0;
+
+  padding: 0.875rem 1rem;
+
+  &.primary {
+    background-color: #14289b;
+    color: white;
+  }
+
+  &.secondary {
+    background-color: #4d4e4e;
+    color: #000;
+  }
+
+  &.sm {
+    padding: 0.5rem 0.875rem;
+  }
+
+  &.md {
+    padding: 0.875rem 1rem;
+  }
+
+  &.lg {
+    padding: 1rem 1.25rem;
+  }
+}

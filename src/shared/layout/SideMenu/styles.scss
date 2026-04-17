@@ -1,0 +1,49 @@
+.side-menu {
+  // Box Model
+  width: 16rem;
+  min-height: 100vh;
+  padding-top: 2rem;
+
+  // Visual
+  background-color: #111827;
+
+  &__nav {
+    // Box Model
+    width: 100%;
+  }
+
+  &__list {
+    // Box Model
+    margin: 0;
+    padding: 0;
+
+    // Visual
+    list-style: none;
+  }
+
+  &__item {
+    // Box Model
+    margin-bottom: 0.5rem;
+  }
+
+  &__link {
+    // Layout
+    display: block;
+
+    // Box Model
+    padding: 0.75rem 1.5rem;
+
+    // Typography
+    font-size: 0.95rem;
+    color: #e5e7eb;
+    text-decoration: none;
+
+    // Transform / Animation
+    transition: background-color 0.2s ease;
+
+    &:hover {
+      // Visual
+      background-color: #374151;
+    }
+  }
+}

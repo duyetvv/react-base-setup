@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ModalBody Component > matches snapshot with default props 1`] = `
+<DocumentFragment>
+  <div
+    class="modal__body"
+  />
+</DocumentFragment>
+`;

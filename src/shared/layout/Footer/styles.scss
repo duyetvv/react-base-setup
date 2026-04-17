@@ -1,0 +1,35 @@
+.footer {
+  // Layout
+  display: flex;
+
+  // Box Model
+  margin-top: auto;
+  padding: 1rem 0;
+
+  // Typography
+  font-family: sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+
+  // Visual
+  background-color: #1f2937;
+
+  // Transform / Animation
+  transform: translate(0, 0);
+
+  &__container {
+    // Box Model
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 0 2rem;
+
+    // Typography
+    text-align: center;
+  }
+
+  &__copyright {
+    // Typography
+    color: #d1d5db;
+    font-size: 0.875rem;
+  }
+}
